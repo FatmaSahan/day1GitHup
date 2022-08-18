@@ -18,6 +18,7 @@ kullanırız
  */
     public static void main(String[] args) {
         System.out.println("githubida ogrendim");
+        //gsdgsdfgsdgfhjfdsgjdfhgjd
 
     }
 
